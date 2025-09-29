@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
@@ -205,3 +206,28 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+=======
+
+venv/
+/venv/
+*.venv
+.venv
+
+
+pycache/
+*.pyc
+
+
+.idea/
+.vscode/
+
+
+creditcard.csv
+
+
+model/fraud_detection_model.pkl
+
+
+.env
+*.env
+>>>>>>> 72c690c (Initial commit: Setup project structure and basic functionality)

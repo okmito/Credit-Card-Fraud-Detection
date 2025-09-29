@@ -3,12 +3,6 @@
 <p>
 A real-time fraud detection application using a machine learning model built with Python, Flask, and Scikit-learn.
 </p>
-
-<p>
-<img alt="Python" src="https://www.citypng.com/public/uploads/preview/hd-python-logo-symbol-transparent-png-735811696257415dbkifcuokn.png">
-<img alt="Flask" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzxkF5yUZ387TY1acpUQYU7Du1yYug1et7Hw&s">
-<img alt="Scikit-learn" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMtySuHgewygE0E3Cpz4ugYZY9VT8B2iDiug&s">
-</p>
 </div>
 
 📜 Table of Contents

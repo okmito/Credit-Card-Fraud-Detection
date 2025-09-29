@@ -19,6 +19,27 @@ A real-time fraud detection application using a machine learning model built wit
 </p>
 </div>
 
+📜 Table of Contents
+About The Project
+
+Key Features
+
+Getting Started
+
+Prerequisites
+
+Installation & Setup
+
+How to Run
+
+Project Structure
+
+Contributing
+
+License
+
+Contact
+
 📋 About The Project
 This project provides an interactive web interface to demonstrate a real-world machine learning application. It uses a Logistic Regression model to classify credit card transactions as either legitimate or fraudulent based on a set of anonymized features. The system is designed to be a practical example of deploying an ML model with a web framework.
 
@@ -87,14 +108,35 @@ Open your web browser and navigate to 👉 https://www.google.com/search?q=http:
 📁 Project Structure
 credit-card-fraud-detection/
 │
-├── model/
-│   └── fraud_detection_model.pkl   # Generated after training
+├── 📂 model/
+│   └── 📦 fraud_detection_model.pkl   # Generated after training
 │
-├── templates/
-│   └── index.html                  # Frontend interface
+├── 📂 templates/
+│   └── 📄 index.html                  # Frontend interface
 │
-├── .gitignore                      # Files to ignore for Git
-├── app.py                          # Flask application backend
-├── model_training.py               # Script to train the ML model
-├── requirements.txt                # Project dependencies
-└── README.md                       # This file
+├── 📜 .gitignore                      # Files to ignore for Git
+├── 🐍 app.py                          # Flask application backend
+├── 🐍 model_training.py               # Script to train the ML model
+├── 📋 requirements.txt                # Project dependencies
+└── 📖 README.md                       # This file
+
+🤝 Contributing
+Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
+
+Fork the Project
+
+Create your Feature Branch (git checkout -b feature/AmazingFeature)
+
+Commit your Changes (git commit -m 'Add some AmazingFeature')
+
+Push to the Branch (git push origin feature/AmazingFeature)
+
+Open a Pull Request
+
+📝 License
+Distributed under the MIT License. See LICENSE for more information.
+
+📧 Contact
+Your Name - your.email@example.com
+
+Project Link: https://github.com/your-username/credit-card-fraud-detection

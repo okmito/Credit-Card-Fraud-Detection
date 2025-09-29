@@ -139,12 +139,3 @@ Steps:
 
 ---
 
-## 📝 License
-Distributed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-## 📧 Contact
-**Your Name** — your.email@example.com  
-
-Project Link: [https://github.com/your-username/credit-card-fraud-detection](https://github.com/your-username/credit-card-fraud-detection)

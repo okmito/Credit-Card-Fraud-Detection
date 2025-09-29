@@ -93,13 +93,10 @@ Open your web browser and navigate to 👉 https://www.google.com/search?q=http:
 
 📁 Project Structure
 credit-card-fraud-detection/
-│
 ├── model/
 │   └── fraud_detection_model.pkl
-│
 ├── templates/
 │   └── index.html
-│
 ├── .gitignore
 ├── app.py
 ├── model_training.py
@@ -116,5 +113,6 @@ Create your Feature Branch (git checkout -b feature/AmazingFeature)
 Commit your Changes (git commit -m 'Add some AmazingFeature')
 
 Push to the Branch (git push origin feature/AmazingFeature)
-    
+
 Open a Pull Request
+

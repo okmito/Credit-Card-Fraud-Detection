@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# Credit-Card-Fraud-Detection
-A web-based credit card fraud detection system built with Python, Flask, and Scikit-learn. This application uses a machine learning model trained on real transaction data to identify potential fraud. The intuitive UI lets users input transaction details or generate random samples to see the model's live predictions and confidence scores.
-=======
 <div align="center">
 <img src="https://www.google.com/search?q=https://i.imgur.com/8aJqg9B.png" alt="Project Banner" width="800"/>
 
@@ -102,4 +98,3 @@ credit-card-fraud-detection/
 ├── model_training.py               # Script to train the ML model
 ├── requirements.txt                # Project dependencies
 └── README.md                       # This file
->>>>>>> 72c690c (Initial commit: Setup project structure and basic functionality)

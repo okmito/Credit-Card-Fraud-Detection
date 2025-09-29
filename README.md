@@ -1,21 +1,13 @@
 <div align="center">
-<img src="https://www.google.com/search?q=https://i.imgur.com/8aJqg9B.png" alt="Project Banner" width="800"/>
-
-
-
-
-
 <h1>Credit Card Fraud Detection System</h1>
 <p>
 A real-time fraud detection application using a machine learning model built with Python, Flask, and Scikit-learn.
 </p>
 
 <p>
-<img alt="Python" src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3.7%252B-blue%3Flogo%3Dpython%26logoColor%3Dwhite">
-<img alt="Flask" src="https://www.google.com/search?q=https://img.shields.io/badge/Flask-2.0%252B-black%3Flogo%3Dflask%26logoColor%3Dwhite">
-<img alt="Scikit-learn" src="https://www.google.com/search?q=https://img.shields.io/badge/scikit--learn-1.0%252B-orange%3Flogo%3Dscikit-learn%26logoColor%3Dwhite">
-<img alt="Pandas" src="https://www.google.com/search?q=https://img.shields.io/badge/Pandas-1.3%252B-blueviolet%3Flogo%3Dpandas%26logoColor%3Dwhite">
-<img alt="NumPy" src="https://www.google.com/search?q=https://img.shields.io/badge/NumPy-1.21%252B-cyan%3Flogo%3Dnumpy%26logoColor%3Dwhite">
+<img alt="Python" src="https://www.citypng.com/public/uploads/preview/hd-python-logo-symbol-transparent-png-735811696257415dbkifcuokn.png">
+<img alt="Flask" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzxkF5yUZ387TY1acpUQYU7Du1yYug1et7Hw&s">
+<img alt="Scikit-learn" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMtySuHgewygE0E3Cpz4ugYZY9VT8B2iDiug&s">
 </p>
 </div>
 
@@ -108,17 +100,17 @@ Open your web browser and navigate to 👉 https://www.google.com/search?q=http:
 📁 Project Structure
 credit-card-fraud-detection/
 │
-├── 📂 model/
-│   └── 📦 fraud_detection_model.pkl   # Generated after training
+├── model/
+│   └── fraud_detection_model.pkl
 │
-├── 📂 templates/
-│   └── 📄 index.html                  # Frontend interface
+├── templates/
+│   └── index.html
 │
-├── 📜 .gitignore                      # Files to ignore for Git
-├── 🐍 app.py                          # Flask application backend
-├── 🐍 model_training.py               # Script to train the ML model
-├── 📋 requirements.txt                # Project dependencies
-└── 📖 README.md                       # This file
+├── .gitignore
+├── app.py
+├── model_training.py
+├── requirements.txt
+└── README.md
 
 🤝 Contributing
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
@@ -130,13 +122,5 @@ Create your Feature Branch (git checkout -b feature/AmazingFeature)
 Commit your Changes (git commit -m 'Add some AmazingFeature')
 
 Push to the Branch (git push origin feature/AmazingFeature)
-
+    
 Open a Pull Request
-
-📝 License
-Distributed under the MIT License. See LICENSE for more information.
-
-📧 Contact
-Your Name - your.email@example.com
-
-Project Link: https://github.com/your-username/credit-card-fraud-detection

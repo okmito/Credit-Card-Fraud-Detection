@@ -3,6 +3,14 @@
 <p>
 A real-time fraud detection application using a machine learning model built with Python, Flask, and Scikit-learn.
 </p>
+
+<p>
+<img alt="Python" src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3.7%252B-blue%3Flogo%3Dpython%26logoColor%3Dwhite">
+<img alt="Flask" src="https://www.google.com/search?q=https://img.shields.io/badge/Flask-2.0%252B-black%3Flogo%3Dflask%26logoColor%3Dwhite">
+<img alt="Scikit-learn" src="https://www.google.com/search?q=https://img.shields.io/badge/scikit--learn-1.0%252B-orange%3Flogo%3Dscikit-learn%26logoColor%3Dwhite">
+<img alt="Pandas" src="https://www.google.com/search?q=https://img.shields.io/badge/Pandas-1.3%252B-blueviolet%3Flogo%3Dpandas%26logoColor%3Dwhite">
+<img alt="NumPy" src="https://www.google.com/search?q=https://img.shields.io/badge/NumPy-1.21%252B-cyan%3Flogo%3Dnumpy%26logoColor%3Dwhite">
+</p>
 </div>
 
 📜 Table of Contents
@@ -92,17 +100,6 @@ Access the application:
 Open your web browser and navigate to 👉 https://www.google.com/search?q=http://127.0.0.1:5000
 
 📁 Project Structure
-credit-card-fraud-detection/
-├── model/
-│   └── fraud_detection_model.pkl
-├── templates/
-│   └── index.html
-├── .gitignore
-├── app.py
-├── model_training.py
-├── requirements.txt
-└── README.md
-
 🤝 Contributing
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
 
